@@ -1,0 +1,2 @@
+// 表示启用宏名USE_MYMATH，而且会在config.h中自动加入对应代码
+#cmakedefine USE_MYMATH

@@ -1,0 +1,6 @@
+// 表示启用宏名USE_MYMATH，而且会在config.h中自动加入对应代码
+#cmakedefine USE_MYMATH
+
+// 版本号的宏定义
+#define Demo_VERSION_MAJOR @Demo_VERSION_MAJOR@
+#define Demo_VERSION_MINOR @Demo_VERSION_MINOR@
